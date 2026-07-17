@@ -19,9 +19,11 @@ The following Python packages are required: `RDKit`, `NumPy`, `pickle`
 
 ```S1T1-ratio-predictor smiles1 smiles2 ... ```
 
-### Arguments
+where `smiles1`, `smiles2` are SMILES strings corresponding to benzannulated biphenylenes
 
-- `smiles1`, `smiles2`, ...: SMILES strings corresponding to for benzannulated biphenylenes
+#### Example
+
+```S1T1-ratio-predict.py c12-c3c(-c1cc1c(c2)cc2c(c1)ccc1c2ccc2c1cc1c(c2)cc2c(c1)cccc2)cccc3 c12-c3c(-c1ccc1c2cccc1)cc1c(c3)ccc2c1c1c(cc2)cccc1```
 
 ## How it works
 
