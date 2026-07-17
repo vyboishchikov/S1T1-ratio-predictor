@@ -1,5 +1,5 @@
 '''
-A neural network for predicting E(S1)/E(T1) ratio for benzannuled biphenylenes
+A neural network for predicting E(S1)/E(T1) ratio for benzannulated biphenylenes
 Author: Sergei F. Vyboishchikov
 Universitat de Girona, July 2026
 The program is used from the command line:
