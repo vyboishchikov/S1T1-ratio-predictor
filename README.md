@@ -34,4 +34,4 @@ The program:
 
 ## Bibliography
 
-The paper is under consideration.
+The paper, authored by S. F. Vyboishchikov, I. Sarfraz, M. Sol&agrave; and A. Artigas is under consideration.
